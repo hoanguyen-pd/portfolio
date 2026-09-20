@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hoa Nguyen — Senior UI/UX & Product Designer</title>
+<meta name="description" content="Portfolio of Hoa Nguyen, Senior UI/UX & Product Designer based in Ha Noi, Vietnam.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header" id="site-header"></header>
+
+<main>
+  <section class="hero" id="hero"></section>
+
+  <section id="projects">
+    <div class="wrap">
+      <div class="projects-head">
+        <div style="width:80px;"></div>
+        <div class="head-col">
+          <div class="kicker">Featured Projects</div>
+          <h2>Selected Projects</h2>
+        </div>
+        <a class="view-all" href="https://www.behance.net/hoa231" target="_blank" rel="noopener">View all projects &rarr;</a>
+      </div>
+      <div class="project-grid" id="projects-grid"></div>
+
+      <div class="more-projects-head">
+        <div>
+          <div class="kicker" style="margin-bottom:2px;">More Work</div>
+          <h3>More Projects</h3>
+        </div>
+      </div>
+      <div class="more-projects" id="more-projects-grid"></div>
+    </div>
+  </section>
+
+  <section class="process-section">
+    <div class="wrap">
+      <div class="section-head" id="process-head"></div>
+      <div class="process-steps" id="process-steps"></div>
+    </div>
+  </section>
+
+  <section id="behind-interface">
+    <div class="wrap">
+      <div class="projects-head">
+        <div style="width:80px;"></div>
+        <div class="head-col">
+          <div class="kicker">Selected Examples</div>
+          <h2>Behind the Interface</h2>
+          <p class="subtitle" style="margin-top:8px;">A closer look at my UX and UI work across different projects.</p>
+        </div>
+        <a class="view-all" href="#" id="view-more-details">View more details &rarr;</a>
+      </div>
+      <div class="behind-grid" id="behind-grid"></div>
+    </div>
+  </section>
+
+  <section class="about-section" id="about">
+    <div class="wrap about-grid">
+      <div id="about-col"></div>
+      <div id="skills-col"></div>
+    </div>
+  </section>
+
+  <section id="experience">
+    <div class="wrap">
+      <div id="experience-head"></div>
+      <div class="experience-grid">
+        <div class="timeline" id="timeline"></div>
+        <div class="experience-detail" id="experience-detail"></div>
+      </div>
+    </div>
+  </section>
+
+  <div id="contact"></div>
+</main>
+
+<footer class="site-footer" id="site-footer"></footer>
+
+<!-- Lightbox for Behind-the-Interface galleries -->
+<div class="lightbox-overlay hidden" id="lightbox">
+  <div class="lightbox-box">
+    <div class="lightbox-image-wrap">
+      <button class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</button>
+      <button class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Previous">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <img id="lightbox-img" src="" alt="">
+      <button class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Next">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
+    </div>
+    <div class="lightbox-caption" id="lightbox-caption"></div>
+    <div class="lightbox-counter" id="lightbox-counter"></div>
+  </div>
+</div>
+
+<script src="assets/js/config.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
