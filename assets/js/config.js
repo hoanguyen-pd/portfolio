@@ -83,7 +83,7 @@ const SITE = {
         "App for connecting managers and workers quickly across the Z113 factory floor.",
       thumbnail:
         "https://mir-s3-cdn-cf.behance.net/projects/404/9271b7204900983.Y3JvcCwxMzgwLDEwODAsNjQsMA.jpg",
-      tags: ["Factory Operations", "Workforce Management", "Desktop & Mobile"],
+      tags: ["Factory", "Internal System", "Desktop & Mobile"],
       link: "https://www.behance.net/gallery/204900983/Z113-Project",
     },
     {
@@ -93,7 +93,7 @@ const SITE = {
         "Mobile banking app with expense tracking, a digital wallet, and stronger financial security.",
       thumbnail:
         "https://mir-s3-cdn-cf.behance.net/projects/404/7e21d0198996851.Y3JvcCwyNTU2LDIwMDAsMjQ2LDA.jpg",
-      tags: ["Mobile Banking", "Digital Wallet", "Financial Services"],
+      tags: ["Banking", "Digital Wallet", "Financial Services"],
       link: "https://www.behance.net/gallery/198996851/MB-Laos-bank",
     },
   ],
