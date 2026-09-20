@@ -24,8 +24,8 @@ const SITE = {
       "Nearly 9 years of experience designing web and mobile products, from research to high-fidelity UI, with a focus on creating intuitive and impactful digital experiences.",
     portrait: "assets/images/profile/hoa-portrait.jpg",
     stats: [
-      { number: "9+", label: "Years Experience" },
-      { number: "20+", label: "Products Shipped" },
+      { number: "8+", label: "Years Experience" },
+      { number: "40+", label: "Products Shipped" },
       { number: "4", label: "Companies" },
     ],
     floatingBadges: [
