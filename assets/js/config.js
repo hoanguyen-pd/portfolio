@@ -26,7 +26,7 @@ const SITE = {
     stats: [
       { number: "8+", label: "Years Experience" },
       { number: "40+", label: "Products Shipped" },
-      { number: "4", label: "Companies" },
+      { number: "5", label: "Companies" },
     ],
     floatingBadges: [
       { icon: "users", text: "User-centered Design" },
