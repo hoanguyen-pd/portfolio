@@ -73,17 +73,17 @@ const SITE = {
         "A healthcare platform designed to support users in managing and improving their health.",
       thumbnail:
         "https://mir-s3-cdn-cf.behance.net/projects/404/6a1d80255953427.Y3JvcCwxMjAzLDk0MSwyMzUsMA.png",
-      tags: ["UX Research", "AI Chatbot", "Mobile App"],
+      tags: ["Healthcare", "AI Chatbot", "Multi Platform"],
       link: "https://www.behance.net/gallery/255953427/PMS",
     },
     {
       category: "Enterprise",
-      title: "Z113 — Personnel Management",
+      title: "Z113 - Personnel Management",
       description:
         "App for connecting managers and workers quickly across the Z113 factory floor.",
       thumbnail:
         "https://mir-s3-cdn-cf.behance.net/projects/404/9271b7204900983.Y3JvcCwxMzgwLDEwODAsNjQsMA.jpg",
-      tags: ["Sitemap & User Flow", "Design System", "Prototype"],
+      tags: ["Factory Operations", "Workforce Management", "Desktop & Mobile"],
       link: "https://www.behance.net/gallery/204900983/Z113-Project",
     },
     {
@@ -93,7 +93,7 @@ const SITE = {
         "Mobile banking app with expense tracking, a digital wallet, and stronger financial security.",
       thumbnail:
         "https://mir-s3-cdn-cf.behance.net/projects/404/7e21d0198996851.Y3JvcCwyNTU2LDIwMDAsMjQ2LDA.jpg",
-      tags: ["UI Design", "Mobile Banking", "Prototype"],
+      tags: ["Mobile Banking", "Digital Wallet", "Financial Services"],
       link: "https://www.behance.net/gallery/198996851/MB-Laos-bank",
     },
   ],
